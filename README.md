@@ -7,8 +7,7 @@ are refactored and ready. There are also some common, very usefull algorithms (d
 I learned to apply when solving problems.
 Finally there are some useful design patterns, as well as a few implementations of concurrency.
 
-At the moment all code is c++, will be looking into Rust in the future when I feel like a change from c++.
-
+My professional language is C++, but I use mostly python for problems/puzzles
 I am also interested in VIM and slowly trying to learn how to effectively use it professionaly. 
 
 Always interested in discussing problems and design patterns related to c++. 
